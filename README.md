@@ -3,7 +3,6 @@
 A Python client for interacting with the [Microsoft BitNet Demo API](https://bitnet-demo.azurewebsites.net).  
 Built for developers, researchers, and tinkerers who want fast and simple access to a GPU/CPU-based large language model.
 
-[![PyPI version](https://badge.fury.io/py/bitnet-api.svg)](https://pypi.org/project/bitnet-api/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
